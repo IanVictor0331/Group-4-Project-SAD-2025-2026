@@ -1,1 +1,2 @@
-# PowerPuff_Project1_SAD_20252026
+## Group Name : PowerPuff
+- Project 1 System Analysis and Design (WBL)
